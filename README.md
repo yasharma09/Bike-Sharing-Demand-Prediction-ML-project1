@@ -1,1 +1,3 @@
-# Bike-Sharing-Demand-Prediction-ML-project1
+Bike-sharing systems are a means of renting bicycles. Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort.
+
+It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing a stable supply of rental bikes becomes a major concern, which will grow the business of bike sharing. The crucial part is the prediction of the bike count required at each hour for the stable supply of rental bikes, so it's a need of the hour to solve this problem. The bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance weather conditions, day of the week, season, hour of the day, etc. can affect the rental behaviors. Therefore, the proposed model will predict the demand for rental bikes given information about the weather and time of the day.
