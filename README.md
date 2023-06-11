@@ -14,7 +14,7 @@ Problem Statement
 Many metropolitan areas now offer bike rentals to improve mobility and convenience. Ensuring timely access to rental bikes is critical to reducing wait times for the public, making a consistent supply of rental bikes a major concern. The expected hourly bicycle count is particularly crucial in this regard. We have to build a Regression model to predict the number of bikes required at any point of time.
 
 Dataset
-The dataset is from Seoul's Bike Sharing Program. The data set includes over 8000 records and 14 attributes based on historical usage patterns, including temperature, time, and other data. For more information on the dataset, please visit the Kaggle website at https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-sharing-demand-prediction
+The dataset is from Seoul's Bike Sharing Program. The data set includes over 8000 records and 14 attributes based on historical usage patterns, including temperature, time, and other data. For more information on the dataset, please visit the website at (https://github.com/yasharma09/Bike-Sharing-Demand-Prediction-ML-project1/blob/main/SeoulBikeData.csv)
 
 Data Pipeline
 Analyze Data: In this initial step, we attempted to comprehend the data and searched for various available features. We looked for things like the shape of the data, the data types of each feature, a statistical summary, etc. at this stage.
@@ -27,7 +27,7 @@ Performance Evaluation: After passing it to various regression models and calcul
 Project Structure
 ├── README.md
 ├── Dataset 
-│   ├── [SeoulBikeData.csv](https://github.com/Navneet2409/bike-sharing-demand-prediction/files/10743655/SeoulBikeData.csv)
+│   ├── [SeoulBikeData.csv](https://github.com/yasharma09/Bike-Sharing-Demand-Prediction-ML-project1/blob/main/SeoulBikeData.csv)
 ├── Problem Statement
 │
 ├── Know Yoour Data
